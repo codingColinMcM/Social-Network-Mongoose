@@ -1,6 +1,6 @@
 # Social-Network
 
-im finna finish 
+im finna finish this
 
 ## Description
 
