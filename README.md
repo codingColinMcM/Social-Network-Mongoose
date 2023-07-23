@@ -36,6 +36,43 @@ support the platform's functionalities efficiently.
 - [License](#license)
 - [Questions?](#quest)
 
+## Overview
+
+The application is organized into several files and folders:
+
+* The config folder contains connection.js, which sets up the Mongoose configuration for MongoDB. It establishes the connection to the MongoDB database, allowing the
+application to interact with it using Mongoose.
+
+* The controllers folder contains CRUD commands for the API routes. These controllers handle the logic and operations related to the data entities in the Social Network site.
+
+* The models folder contains different Mongoose models for different data entities in the Social Network site, such as thoughts and users. These models define the schema and
+structure of the data stored in MongoDB.
+
+* The routes folder contains the API routes for the application. These routes handle incoming HTTP requests and reference the commands defined in the controllers folder. The
+routes enable developers to interact with the data entities in MongoDB.
+
+* The utils folder contains utility files used in the application. dateFormat.js is a file that provides utilities related to date formatting, which is used in the Thought
+model. seed.js is a file responsible for seeding data into MongoDB, providing initial data for testing or development purposes.
+
+* .gitignore specifies which files and folders should be ignored by Git version control, helping to keep the repository clean and prevent sensitive data from being committed.
+
+* LICENSE contains the license agreement for the Social Network application, specifying the terms and conditions for its use and distribution.
+
+* README.md serves as the README for the Social Network application, providing comprehensive information about the application. It includes instructions for installation, usage guidelines, and other relevant details.
+
+* package-lock.json and package.json are related to the application's Node.js package management. They define the project's dependencies and other package-related information.
+
+* server.jsThis file deploys the API on a local host port using Express.js. It sets up the server and handles incoming requests from clients.
+The application's organization allows developers to perform CRUD operations on different data entities (thoughts and users) through API routes and controllers.
+
+Additionally, the application includes utility files in the utils folder, such as dateFormat.js and seed.js, to enhance functionality and ease data seeding. 
+
+The presence of a .gitignore file ensures version control ignores unnecessary files, while the LICENSE file clarifies the terms of use. 
+
+The README.md provides all necessary information for understanding and using the Social Network application.
+
+Overall, this Social Network application uses Mongoose as an Object Data Modeling (ODM) library to interact with a MongoDB database.
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/112663656/221658330-f9225c93-e470-467d-97c5-0ef19a0aafdc.png)
