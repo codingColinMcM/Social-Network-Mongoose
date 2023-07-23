@@ -1,6 +1,6 @@
 # Social-Network
 
-im finna finish this tomorrow i swear
+im finna finish this tomorrow i swear just
 
 ## Description
 
