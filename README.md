@@ -110,7 +110,7 @@ Open your preferred API testing tool and send requests to the API routes to inte
 
 ![image](https://user-images.githubusercontent.com/112663656/221658330-f9225c93-e470-467d-97c5-0ef19a0aafdc.png)
 
-## Demo Vids  <a name="demo"></a>
+## Demo Videos  <a name="demo"></a>
 
 ### User Routes
 
