@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-I am pretty proud of myself for deciding to 
+I am pretty proud of myself for deciding to update
 
 ## Description
 
