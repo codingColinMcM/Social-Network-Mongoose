@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-I am pretty proud of myself for deciding to update the documentation for 
+I am pretty proud of myself for deciding to update the documentation for this
 
 ## Description
 
