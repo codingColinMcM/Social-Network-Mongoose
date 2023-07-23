@@ -1,6 +1,6 @@
 # Social-Network
 
-I am pretty proud of 
+I am pretty proud of myself
 
 ## Description
 
