@@ -46,7 +46,7 @@ connection.once('open', async () => {
       userName: "McBoolin",
       reactions: [{
         reactionID: 0,
-        reactionBody: "Fuck you!",
+        reactionBody: "You're Lame!",
         userName: "CoolinMcBoolin"
       },
       {
