@@ -96,6 +96,17 @@ This will populate the MongoDB database with the specified seed data.
 
 ## Usage
 
+Start the server by running the following command:
+
+```
+npm start
+```
+
+The server will be up and running on the specified port, ready to handle API requests.
+
+To test the API routes, you can use a tool like "Insomnia Core" or "Postman."
+Open your preferred API testing tool and send requests to the API routes to interact with the data in MongoDB.
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/112663656/221658330-f9225c93-e470-467d-97c5-0ef19a0aafdc.png)
