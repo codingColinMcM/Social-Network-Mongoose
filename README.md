@@ -77,6 +77,8 @@ Overall, this Social Network application uses Mongoose as an Object Data Modelin
 
 
 
+## Usage
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/112663656/221658330-f9225c93-e470-467d-97c5-0ef19a0aafdc.png)
