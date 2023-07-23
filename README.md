@@ -82,8 +82,11 @@ npm init -y
 npm install express
 npm install mongoose
 npm install moment
-Seed the database:
 ```
+
+This will populate the MongoDB database with the specified seed data.
+
+## Usage
 
 In the utils folder, find the seed.js file.
 If you want to populate the database with initial data, run the seed.js file with the following command:
@@ -91,10 +94,6 @@ If you want to populate the database with initial data, run the seed.js file wit
 ```
 node utils/seed.js
 ```
-
-This will populate the MongoDB database with the specified seed data.
-
-## Usage
 
 Start the server by running the following command:
 
