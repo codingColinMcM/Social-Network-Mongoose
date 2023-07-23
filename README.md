@@ -26,6 +26,8 @@ application to handle large amounts of unstructured data, making it suitable for
 platform. The use of MongoDB as a NoSQL database, coupled with Express.js and Mongoose, will provide the necessary speed and flexibility to 
 support the platform's functionalities efficiently.
 
+## Table of Contents
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/112663656/221658330-f9225c93-e470-467d-97c5-0ef19a0aafdc.png)
