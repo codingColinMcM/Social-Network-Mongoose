@@ -1,7 +1,5 @@
 # Social-Network
 
-im finna finish this tomorrow i swear just gimme my contriputions t
-
 ## Description
 
 ### Problem:
