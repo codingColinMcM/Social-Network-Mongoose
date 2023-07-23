@@ -75,7 +75,24 @@ Overall, this Social Network application uses Mongoose as an Object Data Modelin
 
 ## Installation 
 
+Run the following commands to initialize the project and install required dependencies:
 
+'''
+npm init -y
+npm install express
+npm install mongoose
+npm install moment
+Seed the database:
+'''
+
+In the utils folder, find the seed.js file.
+If you want to populate the database with initial data, run the seed.js file with the following command:
+
+'''
+node utils/seed.js
+'''
+
+This will populate the MongoDB database with the specified seed data.
 
 ## Usage
 
