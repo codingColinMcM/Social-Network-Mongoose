@@ -2,7 +2,10 @@
 
 ## Description
 
-The backend software required for a social network platform. This social network platform allows users to create, search, edit, and delete profiles, create, search, edit, and delete thoughts, create and delete reactions, and add and delete other users as friends. The Object Relational Mapping tool, Mongoose, for MongoDB, is used to store and manipulate the data in the restful API of this social network.
+### Problem:
+
+A social media startup needs to build an API for its social networking web application, which can handle large amounts of unstructured data. They want to use MongoDB as their NoSQL database due to its speed with large datasets and flexibility with unstructured data. The application should allow users to share thoughts, react to friends' thoughts, and manage their friend lists. The API needs to be built using Express.js for routing and Mongoose ODM for interacting with the MongoDB database.
+
 
 ## Screenshot
 
