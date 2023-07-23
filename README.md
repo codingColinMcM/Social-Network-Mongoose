@@ -32,10 +32,9 @@ support the platform's functionalities efficiently.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
-- [Demo Video](#demo)
+- [Demo Videos](#demo)
 - [License](#license)
 - [Questions?](#quest)
-
 
 ## Screenshot
 
