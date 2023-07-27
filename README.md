@@ -1,7 +1,5 @@
 # Social-Network-Mongoose
 
-My Fantasies will stay fantasies. They only face reality when I speak them into reality. Don't mention her
-
 ## Description
 
 ### Problem:
