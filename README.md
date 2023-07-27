@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-My Fantasies will stay fantasies. They only face reality when I speak them
+My Fantasies will stay fantasies. They only face reality when I speak them into
 
 ## Description
 
