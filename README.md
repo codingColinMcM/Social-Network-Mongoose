@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-My Fantasies will stay fantasies. They 
+My Fantasies will stay fantasies. They only
 
 ## Description
 
