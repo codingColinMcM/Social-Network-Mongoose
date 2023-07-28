@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-These mountains in GA sure are beautiful, golly! Not
+These mountains in GA sure are beautiful, golly! Not gonna lie
 
 ## Description
 
