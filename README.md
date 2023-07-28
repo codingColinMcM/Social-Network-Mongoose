@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-These mountains in 
+These mountains in GA
 
 ## Description
 
