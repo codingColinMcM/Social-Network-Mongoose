@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Should I just live in 
+Should I just live in the 
 
 ## Description
 
