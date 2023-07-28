@@ -1,7 +1,5 @@
 # Social-Network-Mongoose
 
-These mountains in GA sure are beautiful, golly! Not gonna lie, revature is kind of a joke. I will attend their class but will keep applying!
-
 ## Description
 
 ### Problem:
