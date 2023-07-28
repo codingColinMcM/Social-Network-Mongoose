@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-These mountains in GA sure
+These mountains in GA sure are 
 
 ## Description
 
