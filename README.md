@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Should I just live in the present moment? Yes I need to preservere 
+Should I just live in the present moment? Yes I need to preservere and 
 
 ## Description
 
