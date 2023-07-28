@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-These mountains in GA sure are 
+These mountains in GA sure are beautiful
 
 ## Description
 
