@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-These mountains in GA sure are beautiful, golly! Not gonna lie, revature is kind of a joke. I will attend their 
+These mountains in GA sure are beautiful, golly! Not gonna lie, revature is kind of a joke. I will attend their class
 
 ## Description
 
