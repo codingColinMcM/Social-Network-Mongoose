@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Should I 
+Should I just
 
 ## Description
 
