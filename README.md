@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-I really think Keanen might be ghay, that's ok. I 
+I really think Keanen might be ghay, that's ok. I know
 
 ## Description
 
