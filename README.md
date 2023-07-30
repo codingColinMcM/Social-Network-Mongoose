@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-I really think keanen 
+I really think Keanen might 
 
 ## Description
 
