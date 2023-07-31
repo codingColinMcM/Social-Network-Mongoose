@@ -1,7 +1,5 @@
 # Social-Network-Mongoose
 
-Doing these contributions finna 
-
 ## Description
 
 ### Problem:
