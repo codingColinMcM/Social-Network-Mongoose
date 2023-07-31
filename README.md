@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Doing these 
+Doing these contributions 
 
 ## Description
 
