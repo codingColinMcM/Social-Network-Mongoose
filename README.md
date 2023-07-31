@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Doing these contributions 
+Doing these contributions finna 
 
 ## Description
 
