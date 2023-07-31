@@ -2,8 +2,6 @@
 
 ## Description
 
-I need to do duolingo and these contributions to GitHub. I sure hope that I get the job I'm looking for. Revature is tomorrow. 
-
 ### Problem:
 
 A social media startup needs to build an API for its social networking web application, which can handle large amounts of unstructured data. 
