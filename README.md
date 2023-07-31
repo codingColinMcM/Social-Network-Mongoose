@@ -2,7 +2,7 @@
 
 ## Description
 
-I need to do duolingo and these contributions to 
+I need to do duolingo and these contributions to github
 
 ### Problem:
 
