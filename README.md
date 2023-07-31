@@ -2,7 +2,7 @@
 
 ## Description
 
-I need to do duolingo and these contributions
+I need to do duolingo and these contributions to 
 
 ### Problem:
 
