@@ -2,7 +2,7 @@
 
 ## Description
 
-I need to do duolingo and 
+I need to do duolingo and these
 
 ### Problem:
 
