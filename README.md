@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Golly, Rachel sure wanted to see
+Golly, Rachel sure wanted to see me
 
 ## Description
 
