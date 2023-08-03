@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Golly, Rachel sure wanted to see me at Midweek. Revature assesments 
+Golly, Rachel sure wanted to see me at Midweek. Revature assessments being
 
 ## Description
 
