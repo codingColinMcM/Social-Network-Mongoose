@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Golly
+Golly, Rachel
 
 ## Description
 
