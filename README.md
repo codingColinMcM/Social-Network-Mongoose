@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Golly, Rachel sure wanted to see me at Midweek. Revature assessments being closed
+Golly, Rachel sure wanted to see me at Midweek. Revature assessments being closed note
 
 ## Description
 
