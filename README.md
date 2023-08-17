@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Revature is teaching me git, GIT! I need to do something else with my time I should make a follow up 
+Revature is teaching me git, GIT! I need to do something else with my time I should make a follow up letter
 
 ## Description
 
