@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Revature is teaching me git,
+Revature is teaching me git, GIT 
 
 ## Description
 
