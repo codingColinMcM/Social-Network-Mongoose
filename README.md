@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Revature 
+Revature is 
 
 ## Description
 
