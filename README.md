@@ -1,6 +1,6 @@
 # Social-Network-Mongoose
 
-Revature is teaching 
+Revature is teaching me 
 
 ## Description
 
