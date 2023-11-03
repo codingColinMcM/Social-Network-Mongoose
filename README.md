@@ -1,5 +1,3 @@
-
-
 # Social-Network-Mongoose
  
 ## Description
